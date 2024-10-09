@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Open"
+        android:title="Open"
+        android:icon="@drawable/baseline_open_in_new_24"/>
+    <item
+        android:id="@+id/Create"
+        android:title="Create"
+        android:icon="@drawable/baseline_create_24"/>
+    <item
+        android:id="@+id/Delete"
+        android:icon="@drawable/baseline_delete_24"
+        android:title="Delete"/>
+    <item
+        android:id="@+id/Save"
+        android:title="Save"
+        android:icon="@drawable/baseline_save_as_24"/>
+    <item
+        android:id="@+id/Saveas"
+        android:title="Save As"
+        android:icon="@drawable/baseline_save_as_24"/>
+
+</menu>
